@@ -1,0 +1,33 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+body{
+	text-align: center !important;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	outline: none;
+    padding: 0 15px;
+    border: 1px solid#CACACA;
+
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 6px;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
